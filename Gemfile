@@ -55,3 +55,4 @@ gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '3-0-stable'
 gem 'spree_slider', github: 'spree-contrib/spree_slider'
 
 gem 'spree_i18n', git: 'git://github.com/spree/spree_i18n.git', branch: '3-0-stable'
+gem 'spree_simple_sales', :path => '../spree_simple_sales'
