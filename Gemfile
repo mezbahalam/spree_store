@@ -56,3 +56,8 @@ gem 'spree_slider', github: 'spree-contrib/spree_slider'
 
 gem 'spree_i18n', git: 'git://github.com/spree/spree_i18n.git', branch: '3-0-stable'
 gem 'spree_simple_sales', :path => '../spree_simple_sales'
+
+
+gem 'spree_editor', github: 'mezbahalam/spree_editor', branch: 'master'
+
+gem 'spree_product_assembly', github: 'spree-contrib/spree-product-assembly', branch: 'master'
